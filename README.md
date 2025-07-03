@@ -1,7 +1,6 @@
 
 # 🚦 Traffic Sign Recognition
 
-![Ajeenkya D Y Patil University Logo](https://upload.wikimedia.org/wikipedia/en/c/c1/Ajeenkya_D_Y_Patil_University_logo.png)
 
 ## 🧠 Overview
 
